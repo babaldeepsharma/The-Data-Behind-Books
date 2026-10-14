@@ -8,7 +8,7 @@
 
 ---
 
-## About the Project
+## About the Project 
 
 The Data Behind Books is a statistics project exploring patterns in a selected collection of 10,000 books. It examines reader ratings, author representation, publication years, and summary statistics to understand what the data can tell us about books.
 
